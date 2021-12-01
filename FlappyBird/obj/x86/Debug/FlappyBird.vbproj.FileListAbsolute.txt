@@ -1,0 +1,18 @@
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\bin\Debug\FlappyBird.xml
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\obj\x86\Debug\FlappyBird.Form1.resources
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\obj\x86\Debug\FlappyBird.Resources.resources
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\obj\x86\Debug\FlappyBird.vbproj.GenerateResource.Cache
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\obj\x86\Debug\FlappyBird.exe
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\obj\x86\Debug\FlappyBird.xml
+C:\Users\Gebruiker\AppData\Local\Temporary Projects\FlappyBird\obj\x86\Debug\FlappyBird.pdb
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.exe
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.xml
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.pdb
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\bin\Debug\FlappyBird.xml
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.Resources.resources
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.vbproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Programmatjes\1___VB.NET\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.frmFlappyBird.resources
